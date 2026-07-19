@@ -15,80 +15,80 @@
 </head>
 <body>
 
-    <a href="grade11.html" class="back-btn">← Back to Grade 11</a>
+    <a href="grade12.html" class="back-btn">← Back to Grade 12</a>
     <h1>Files/Chapters</h1>
     
     <div class="grid">
         <!-- Repeat this block 14 times -->
         <div class="card">
-            <h4>Units and Measurement</h4>
-            <a href="https://drive.google.com/file/d/1e4GSy_pgjZNmJUI8PIDpNKjc0HxovuCs/view?usp=drive_link" target="_blank">Access File</a>
+            <h4>Electric Charges and Fields</h4>
+            <a href="" target="_blank">Access File</a>
         </div>
         <!-- Copy the above card block 14 times in total -->
       <div class="card">
-            <h4>Motion in a Straight Line</h4>
-            <a href="https://drive.google.com/file/d/1fSwDPWBbAal-c0dGSuN2uO_PNxFvUVCJ/view?usp=drive_link" target="_blank">Access File</a>
+            <h4>Electrostatic Potential and  Capacitance</h4>
+            <a href="" target="_blank">Access File</a>
         </div>
       
       <div class="card">
-            <h4>Motion in a Plane</h4>
-            <a href="https://drive.google.com/file/d/1Oht5ymaxxsKaL7ioKedSQZi551OcIyUM/view?usp=drive_link" target="_blank">Access File</a>
+            <h4>Current Electricity</h4>
+            <a href="" target="_blank">Access File</a>
         </div>
         
       <div class="card">
-            <h4>Laws Of Motion</h4>
-            <a href="https://drive.google.com/file/d/1p_JnyQkfG9ShuEEJgMPLRKkvkGB2DfY4/view?usp=drive_link" target="_blank">Access File</a>
+            <h4>Moving Charges and Magnetism</h4>
+            <a href="" target="_blank">Access File</a>
         </div>
         
       <div class="card">
-            <h4>Work, Energy & Power</h4>
-            <a href="https://drive.google.com/file/d/1Ki-incRIN8v822Cic3gML9D1jQThkcbP/view?usp=drive_link" target="_blank">Access File</a>
+            <h4>Magnetism and Matter</h4>
+            <a href="" target="_blank">Access File</a>
         </div>
       
       <div class="card">
-            <h4>Systems of Particles and Rotational Motion</h4>
-            <a href="https://drive.google.com/file/d/1GHXk3MjccBa5speryHocbcP4Cf75-LV1/view?usp=drive_link" target="_blank">Access File</a>
+            <h4>Electromagnetic Induction</h4>
+            <a href="" target="_blank">Access File</a>
         </div>
       
       <div class="card">
-            <h4>Gravitation Practice</h4>
-            <a href="https://drive.google.com/file/d/1F6VTpjhxghrR2NB5KEM04G5z41Ytsecs/view?usp=drive_link" target="_blank">Access File</a>
+            <h4>Alternating Current</h4>
+            <a href="" target="_blank">Access File</a>
         </div>
       
       <div class="card">
-            <h4>Mechanical Properties of Solids</h4>
-            <a href="https://drive.google.com/file/d/1fI8-pXtq2N19HYMlNWO0v05y1L9RaNCV/view?usp=drive_link"_blank">Access File</a>
+            <h4>Electromagnetic Waves</h4>
+            <a href=""_blank">Access File</a>
         </div>
       
       <div class="card">
-            <h4>Mechanical Properties of Fluids</h4>
-            <a href="https://drive.google.com/file/d/1jAvrEefuOU5VBzVJRsZ8HGaZg0dE0rWH/view?usp=drive_link"_blank">Access File</a>
+            <h4>Ray Optics and Optical  Instruments</h4>
+            <a href=""target="_blank">Access File</a>
         </div>
       
       <div class="card">
-            <h4>Thermal Properties of Matter</h4>
-            <a href="https://drive.google.com/file/d/1Dgz8Zba6fLJS-Pppsn4iSMr-6DYdl6_V/view?usp=drive_link" target="_blank">Access File</a>
+            <h4>Wave Optics</h4>
+            <a href="" target="_blank">Access File</a>
         </div>
 
       <div class="card">
-            <h4>Thermodynamics</h4>
-            <a href="https://drive.google.com/file/d/17YNdD0V0Iraq4E8kmg6z4M7NLlBfXf5Z/view?usp=drive_link">Access File</a>
+            <h4>Dual Nature of Matter and Radiation</h4>
+            <a href="" target="_blank">Access File</a>
         </div>
       
 
       <div class="card">
-            <h4>Kinetic Theory</h4>
-            <a href="https://drive.google.com/file/d/1E3M55vCJH6JzKeFxC-xdTDzm8dBGJyvo/view?usp=drive_link" target="_blank">Access File</a>
+            <h4>Atoms</h4>
+            <a href="" target="_blank">Access File</a>
         </div>
       
       <div class="card">
-            <h4>Oscillations</h4>
-            <a href="https://drive.google.com/file/d/1uff22NfuwplBIS84lVAdO6A21f9Ds91J/view?usp=drive_link" target="_blank">Access File</a>
+            <h4>Nuclei</h4>
+            <a href="" target="_blank">Access File</a>
         </div>
 
       <div class="card">
-            <h4>Waves</h4>
-            <a href="https://drive.google.com/file/d/1f0EKdWyltlp1WrTHDfHdiYGNApEDF0db/view?usp=drive_link" target="_blank">Access File</a>
+            <h4>Semiconductor Electronics: Materials, Devices and Simple Circuits</h4>
+            <a href="" target="_blank">Access File</a>
         </div>
       
     </div>
